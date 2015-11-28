@@ -1,0 +1,7 @@
+Changelog for: Air Rifle Calculator 3.0
+
+1)Added grain to gram calculation.
+2)Fixed inputs not allowing decimal increments.
+
+Codes will be updated here:
+GitHub: https://github.com/thebawgamr/Air-Rifle-Calculator
